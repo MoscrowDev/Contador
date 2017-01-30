@@ -1,2 +1,5 @@
 # Contador
-Script para contagem de palavras numa determinada url
+Script para contagem de palavras a partir de uma URL.
+> contador.rb
+
+Autor: João Vitor Fischer Bez
